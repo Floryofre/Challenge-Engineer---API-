@@ -1,3 +1,4 @@
+![ruta_o_url_de_la_imagen](https://github.com/Floryofre/Challenge-Engineer---API-/blob/main/6.jpg)
 # Challenge - Analytics Engineer Administration Risk & Compliance
 
 ## Descripción
